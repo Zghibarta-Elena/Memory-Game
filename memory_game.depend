@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1679846212 source:c:\users\lenovo\desktop\joc\memory_game\memory_game\main.cpp
+	<iostream>
+	"Joc.h"
+	"MainMenu.h"
+	"GameBoard.h"
+	"UserInput.h"
+
+1679845756 c:\users\lenovo\desktop\joc\memory_game\memory_game\include\joc.h
+	"GameBoard.h"
+	"GameBoard.h"
+	"UserInput.h"
+	"Position.h"
+
+1679837629 c:\users\lenovo\desktop\joc\memory_game\memory_game\include\mainmenu.h
+
+1679837732 source:c:\users\lenovo\desktop\joc\memory_game\memory_game\src\mainmenu.cpp
+	"MainMenu.h"
+	<iostream>
+
+1679847398 c:\users\lenovo\desktop\joc\memory_game\memory_game\include\gameboard.h
+
+1679846994 source:c:\users\lenovo\desktop\joc\memory_game\memory_game\src\gameboard.cpp
+	"GameBoard.h"
+	<iostream>
+
+1679845136 c:\users\lenovo\desktop\joc\memory_game\memory_game\include\userinput.h
+	"Position.h"
+
+1679844515 c:\users\lenovo\desktop\joc\memory_game\memory_game\include\position.h
+
+1679844515 source:c:\users\lenovo\desktop\joc\memory_game\memory_game\src\position.cpp
+	"Position.h"
+
+1679846466 source:c:\users\lenovo\desktop\joc\memory_game\memory_game\src\joc.cpp
+	"Joc.h"
+	<iostream>
+	"MainMenu.h"
+
+1679845136 source:c:\users\lenovo\desktop\joc\memory_game\memory_game\src\userinput.cpp
+	"UserInput.h"
+	<iostream>
+
+1685264520 source:d:\__elena\memory_game\memory_game\main.cpp
+	<iostream>
+	"Joc.h"
+	"MainMenu.h"
+	"GameBoard.h"
+	"UserInput.h"
+	<ctime>
+
+1685035675 d:\__elena\memory_game\memory_game\include\joc.h
+	"GameBoard.h"
+	"GameBoard.h"
+	"UserInput.h"
+	"Position.h"
+	"Culori.h"
+	"FunctiiAjutatoare.h"
+
+1685214539 d:\__elena\memory_game\memory_game\include\gameboard.h
+	"Position.h"
+	<random>
+	"Culori.h"
+
+1679845136 d:\__elena\memory_game\memory_game\include\userinput.h
+	"Position.h"
+
+1679907993 d:\__elena\memory_game\memory_game\include\position.h
+
+1685035005 d:\__elena\memory_game\memory_game\include\mainmenu.h
+
+1685034690 source:d:\__elena\memory_game\memory_game\src\gameboard.cpp
+	"GameBoard.h"
+	<iostream>
+	<chrono>
+	<thread>
+	<vector>
+	<algorithm>
+	"FunctiiAjutatoare.h"
+
+1685035788 source:d:\__elena\memory_game\memory_game\src\joc.cpp
+	"Joc.h"
+	<iostream>
+	"MainMenu.h"
+	<chrono>
+	<thread>
+	<fstream>
+
+1685035252 source:d:\__elena\memory_game\memory_game\src\mainmenu.cpp
+	"MainMenu.h"
+	<iostream>
+
+1679844515 source:d:\__elena\memory_game\memory_game\src\position.cpp
+	"Position.h"
+
+1679898500 source:d:\__elena\memory_game\memory_game\src\userinput.cpp
+	"UserInput.h"
+	<iostream>
+
+1685035675 source:c:\users\lenovo\desktop\memory_game\main.cpp
+	<iostream>
+	"Joc.h"
+	"MainMenu.h"
+	"GameBoard.h"
+	"UserInput.h"
+
+1685035675 c:\users\lenovo\desktop\memory_game\include\joc.h
+	"GameBoard.h"
+	"GameBoard.h"
+	"UserInput.h"
+	"Position.h"
+	"Culori.h"
+	"FunctiiAjutatoare.h"
+
+1685034355 c:\users\lenovo\desktop\memory_game\include\gameboard.h
+	"Position.h"
+	<random>
+	"Culori.h"
+
+1679907993 c:\users\lenovo\desktop\memory_game\include\position.h
+
+1679845136 c:\users\lenovo\desktop\memory_game\include\userinput.h
+	"Position.h"
+
+1685035005 c:\users\lenovo\desktop\memory_game\include\mainmenu.h
+
+1685035675 source:c:\users\lenovo\desktop\memory_game\src\joc.cpp
+	"Joc.h"
+	<iostream>
+	"MainMenu.h"
+	<chrono>
+	<thread>
+	<fstream>
+
+1685035252 source:c:\users\lenovo\desktop\memory_game\src\mainmenu.cpp
+	"MainMenu.h"
+	<iostream>
+
+1679844515 source:c:\users\lenovo\desktop\memory_game\src\position.cpp
+	"Position.h"
+
+1679898500 source:c:\users\lenovo\desktop\memory_game\src\userinput.cpp
+	"UserInput.h"
+	<iostream>
+
+1685034690 source:c:\users\lenovo\desktop\memory_game\src\gameboard.cpp
+	"GameBoard.h"
+	<iostream>
+	<chrono>
+	<thread>
+	<vector>
+	<algorithm>
+	"FunctiiAjutatoare.h"
+
+1685033514 c:\users\lenovo\desktop\memory_game\include\culori.h
+
+1685034606 c:\users\lenovo\desktop\memory_game\include\functiiajutatoare.h
+
+1685034717 source:c:\users\lenovo\desktop\memory_game\src\functiiajutatoare.cpp
+	"FunctiiAjutatoare.h"
+	<iostream>
+
+1685033514 d:\__elena\memory_game\memory_game\include\culori.h
+
+1685034606 d:\__elena\memory_game\memory_game\include\functiiajutatoare.h
+
+1685034717 source:d:\__elena\memory_game\memory_game\src\functiiajutatoare.cpp
+	"FunctiiAjutatoare.h"
+	<iostream>
+
